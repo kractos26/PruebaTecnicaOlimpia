@@ -1,0 +1,9 @@
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\bin\Debug\Utilidad.dll
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\bin\Debug\Utilidad.pdb
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\bin\Debug\Nager.Date.dll
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\bin\Debug\Nager.Date.xml
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\obj\Debug\Utilidad.csprojAssemblyReference.cache
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\obj\Debug\Utilidad.csproj.CopyComplete
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\obj\Debug\Utilidad.dll
+C:\Users\57313\Documents\TFS\Danta\Produccion\Utilidad\obj\Debug\Utilidad.pdb
